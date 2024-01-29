@@ -84,7 +84,8 @@ strong {
   padding: 10px;
 }
 .forecast-replace {
-  font-family: "Rubik Lines", system-ui;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
   color: red;
 }
 footer {
